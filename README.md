@@ -65,7 +65,7 @@ tessera/
 
 ## 🤝 Contributing
 
-Pull requests are welcome! Whether it's adding features, improving performance, or refining documentation—Tessera grows stronger with the community.
+Pull requests are welcome! Whether it's adding features, improving performance, or refining documentation—Tessera grows stronger with the community. The application is not perfect. 
 
 ---
 
