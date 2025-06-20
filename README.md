@@ -2,6 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Streamlit-orange)
 ![Build](https://img.shields.io/badge/Build-Stable-brightgreen)
+![Tessera Banner](assets/tessera_banner.png)
 
 # Tessera: AI NLP Companion
 
