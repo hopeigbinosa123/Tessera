@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Streamlit-orange)
+![Build](https://img.shields.io/badge/Build-Stable-brightgreen)
+
 # Tessera: AI NLP Companion
 
 **Tessera** is a modular and beginner-friendly Natural Language Processing (NLP) toolkit built with Python. Designed to simplify and visualize language tasks, Tessera is powered by Hugging Face Transformers, Streamlit, TextBlob, NLTK, and more.
@@ -72,5 +77,7 @@ Pull requests are welcome! Whether it's adding features, improving performance, 
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+Tessera is your modular AI-powered toolkit for understanding, summarizing, and analyzing language—fast.
 ```
 
