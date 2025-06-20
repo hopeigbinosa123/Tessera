@@ -1,0 +1,33 @@
+```gitignore
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.env/
+.venv/
+tessera_env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Output images
+*.png
+*.jpg
+*.jpeg
+
+# Build artifacts
+*.log
+*.out
+pip-wheel-metadata/
+```
+
+---
